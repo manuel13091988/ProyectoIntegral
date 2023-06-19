@@ -1,0 +1,7 @@
+.styleButton {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background-color: lightcoral;
+    border-radius: 20%;
+}
